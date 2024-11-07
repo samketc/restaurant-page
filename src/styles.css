@@ -1,0 +1,11 @@
+#content {
+    display: flex;
+}
+
+img {
+    width: 300px;
+}
+
+body {
+    background-color: darkolivegreen;
+}
